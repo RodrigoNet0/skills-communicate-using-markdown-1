@@ -14,9 +14,48 @@
       - [ ] Escreva o que te chamou atenção nesse trecho do poema
      ```  
      * Segundo poema
+     
 *  Segundo poeta 
   
 ## Trechos
-
-  ### Nome do poema
+ 
+  ### Eu nunca guardei rebanhos
   >(...)
+  >
+   Saúdo todos os que me lerem,
+   
+   Tirando-lhes o chapéu largo
+   
+   Quando me vêem à minha porta
+   
+   Mal a diligência levanta no cimo do outeiro.
+   
+   Saúdo-os e desejo-lhes sol
+   
+   E chuva, quando a chuva é precisa,
+   
+   E que as suas casas tenham
+   
+   Ao pé duma janela aberta
+  
+   Uma cadeira predilecta
+   
+   Onde se sentem, lendo os meus versos.
+   
+   E ao lerem os meus versos pensem
+   
+   Que sou qualquer coisa natural —
+   
+   Por exemplo, a árvore antiga
+   
+   À sombra da qual quando crianças
+   
+   Se sentavam com um baque, cansados de brincar,
+   
+   E limpavam o suor da testa quente
+   
+   Com a manga do bibe riscado.
+   >F.P.
+   
+  ### O que me achamou a atenção neste trecho:
+  >Fernando Pessoa nos passa tranquilidade, apesar do conturbado momento da chegada da guerra em Portugal no início do século passado, em 1914. Este trecho do poema, repleto de referências de uma vida feliz, nos faz querer sentir o que ele está nos desejando. Conseguimos sentir até o cheirinho do mato, o calor do sol e ouvir o som do silêncio, algo tão excasso hoje em dia.
