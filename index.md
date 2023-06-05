@@ -1,9 +1,12 @@
 # POEMAS
 
-  ## Poeta
+  ## Poetas 
+  
+  ## *Fernando Pessoa*
+  
   ![Fernando Pessoa](https://i0.wp.com/serenaucelli.blog/wp-content/uploads/2021/07/fernando-pessoa-1_ncultura.pt_.jpg?resize=256%2C256&ssl=1)
   
-  poeta, nome e ano de nascimento e morte. Dados pessoais
+  [Vida e Curiosidades](https://www.casafernandopessoa.pt/pt/fernando-pessoa/vida#:~:text=Fernando%20Ant%C3%B3nio%20Nogueira%20Pessoa%20nasceu,padrasto%20era%20o%20c%C3%B4nsul%20Portugu%C3%AAs.)
   
   ### Lista
 *  Primeiro poeta
@@ -14,7 +17,7 @@
       - [ ] Escreva o que te chamou atenção nesse trecho do poema
      ```  
      * Segundo poema
-     
+____________________________________________________     
 *  Segundo poeta 
   
 ## Trechos
